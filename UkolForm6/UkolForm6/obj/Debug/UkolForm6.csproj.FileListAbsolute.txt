@@ -1,0 +1,10 @@
+G:\prg\UkolForm6\UkolForm6\bin\Debug\UkolForm6.exe.config
+G:\prg\UkolForm6\UkolForm6\bin\Debug\UkolForm6.exe
+G:\prg\UkolForm6\UkolForm6\bin\Debug\UkolForm6.pdb
+G:\prg\UkolForm6\UkolForm6\obj\Debug\UkolForm6.csproj.AssemblyReference.cache
+G:\prg\UkolForm6\UkolForm6\obj\Debug\UkolForm6.Form1.resources
+G:\prg\UkolForm6\UkolForm6\obj\Debug\UkolForm6.Properties.Resources.resources
+G:\prg\UkolForm6\UkolForm6\obj\Debug\UkolForm6.csproj.GenerateResource.cache
+G:\prg\UkolForm6\UkolForm6\obj\Debug\UkolForm6.csproj.CoreCompileInputs.cache
+G:\prg\UkolForm6\UkolForm6\obj\Debug\UkolForm6.exe
+G:\prg\UkolForm6\UkolForm6\obj\Debug\UkolForm6.pdb
